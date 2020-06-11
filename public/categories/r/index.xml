@@ -1,0 +1,28 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>R on Brendon Gu</title>
+		<link>/categories/r/</link>
+		<description>Recent content in R on Brendon Gu</description>
+		<generator>Hugo 0.72.0 -- gohugo.io</generator>
+		<language>en</language>
+		<managingEditor>mail@example.org (Some Author)</managingEditor>
+		<webMaster>mail@example.org (Some Author)</webMaster>
+		<copyright>Brendon Gu — All rights reserved.</copyright>
+		<lastBuildDate>Thu, 23 Jul 2015 00:00:00 +0000</lastBuildDate>
+		<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+		<item>
+			<title>R Markdown</title>
+			<link>/posts/2015-07-23-r-rmarkdown/</link>
+			<pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
+			<author>mail@example.org (Some Author)</author>
+			<guid isPermaLink="true">/posts/2015-07-23-r-rmarkdown/</guid>
+			<description>&lt;h1 id=&#34;r-markdown&#34;&gt;R Markdown&lt;/h1&gt;
+&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;summary(cars)
+fit &amp;lt;- lm(dist ~ speed, data = cars)
+fit
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+		</item>
+	</channel>
+</rss>

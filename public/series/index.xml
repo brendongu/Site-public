@@ -1,0 +1,14 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Series on Brendon Gu</title>
+		<link>/series/</link>
+		<description>Recent content in Series on Brendon Gu</description>
+		<generator>Hugo 0.72.0 -- gohugo.io</generator>
+		<language>en</language>
+		<managingEditor>mail@example.org (Some Author)</managingEditor>
+		<webMaster>mail@example.org (Some Author)</webMaster>
+		<copyright>Brendon Gu — All rights reserved.</copyright>
+		<lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate>
+		<atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+	</channel>
+</rss>
