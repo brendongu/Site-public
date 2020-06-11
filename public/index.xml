@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Brendon Gu</title>
-		<link>/</link>
+		<link>https://brendongu.netlify.app/</link>
 		<description>Recent content on Brendon Gu</description>
 		<generator>Hugo 0.72.0 -- gohugo.io</generator>
 		<language>en</language>
@@ -9,13 +9,13 @@
 		<webMaster>mail@example.org (Some Author)</webMaster>
 		<copyright>Brendon Gu — All rights reserved.</copyright>
 		<lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate>
-		<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://brendongu.netlify.app/index.xml" rel="self" type="application/rss+xml" />
 		<item>
 			<title>Test File</title>
-			<link>/posts/test-file/</link>
+			<link>https://brendongu.netlify.app/posts/test-file/</link>
 			<pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
 			<author>mail@example.org (Some Author)</author>
-			<guid isPermaLink="true">/posts/test-file/</guid>
+			<guid isPermaLink="true">https://brendongu.netlify.app/posts/test-file/</guid>
 			<description>&lt;p&gt;It&amp;rsquo;s very easy to make some words &lt;strong&gt;bold&lt;/strong&gt; and other words &lt;em&gt;italic&lt;/em&gt; with Markdown. 
 You can even &lt;a href=&#34;http://google.com&#34;&gt;link to Google!&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Sometimes you want numbered lists:&lt;/p&gt;
@@ -40,15 +40,15 @@ You can even &lt;a href=&#34;http://google.com&#34;&gt;link to Google!&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;If you want to embed images, this is how you do it:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/Dog.png&#34; alt=&#34;Dog&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://brendongu.netlify.app/Dog.png&#34; alt=&#34;Dog&#34;&gt;&lt;/p&gt;
 </description>
 		</item>
 		<item>
 			<title>About Me</title>
-			<link>/about/</link>
+			<link>https://brendongu.netlify.app/about/</link>
 			<pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
 			<author>mail@example.org (Some Author)</author>
-			<guid isPermaLink="true">/about/</guid>
+			<guid isPermaLink="true">https://brendongu.netlify.app/about/</guid>
 			<description>&lt;h2 id=&#34;hi-my-name-is-brendon-and-im-a-junior-at-carnegie-mellon-university-majoring-in-mathematics-with-a-statistics-concentration-i-also-plan-on-minoring-in-computer-science-and-computational-finance-some-things-im-interested-in-are-span-stylecolorfe5f55data-visualizationspan-span-stylecolorfe5f55sports-analyticsspan-especially-baseball-and-span-stylecolorfe5f55discrete-mathspan&#34;&gt;Hi! My name is Brendon, and I&amp;rsquo;m a junior at Carnegie Mellon University majoring in mathematics with a statistics concentration. I also plan on minoring in computer science and computational finance. Some things I&amp;rsquo;m interested in are &lt;span style=&#34;color:#FE5F55&#34;&gt;data visualization&lt;/span&gt;, &lt;span style=&#34;color:#FE5F55&#34;&gt;sports analytics&lt;/span&gt; (especially baseball), and &lt;span style=&#34;color:#FE5F55&#34;&gt;discrete math&lt;/span&gt;.&lt;/h2&gt;
 &lt;center&gt;
 &lt;img src = &#34;/Me.jpeg&#34; width = &#34;300&#34; height = &#34;500&#34;/&gt;
@@ -62,10 +62,10 @@ You can even &lt;a href=&#34;http://google.com&#34;&gt;link to Google!&lt;/a&gt;
 		</item>
 		<item>
 			<title>R Markdown</title>
-			<link>/posts/2015-07-23-r-rmarkdown/</link>
+			<link>https://brendongu.netlify.app/posts/2015-07-23-r-rmarkdown/</link>
 			<pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
 			<author>mail@example.org (Some Author)</author>
-			<guid isPermaLink="true">/posts/2015-07-23-r-rmarkdown/</guid>
+			<guid isPermaLink="true">https://brendongu.netlify.app/posts/2015-07-23-r-rmarkdown/</guid>
 			<description>&lt;h1 id=&#34;r-markdown&#34;&gt;R Markdown&lt;/h1&gt;
 &lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
@@ -76,28 +76,28 @@ fit
 		</item>
 		<item>
 			<title>Gallery</title>
-			<link>/gallery/</link>
+			<link>https://brendongu.netlify.app/gallery/</link>
 			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 			<author>mail@example.org (Some Author)</author>
-			<guid isPermaLink="true">/gallery/</guid>
+			<guid isPermaLink="true">https://brendongu.netlify.app/gallery/</guid>
 			<description>&lt;p&gt;Nothing to see here!&lt;/p&gt;
 </description>
 		</item>
 		<item>
 			<title>Resume</title>
-			<link>/resume/</link>
+			<link>https://brendongu.netlify.app/resume/</link>
 			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 			<author>mail@example.org (Some Author)</author>
-			<guid isPermaLink="true">/resume/</guid>
+			<guid isPermaLink="true">https://brendongu.netlify.app/resume/</guid>
 			<description>&lt;p&gt;Nothing to see here!&lt;/p&gt;
 </description>
 		</item>
 		<item>
 			<title>Work</title>
-			<link>/work/</link>
+			<link>https://brendongu.netlify.app/work/</link>
 			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 			<author>mail@example.org (Some Author)</author>
-			<guid isPermaLink="true">/work/</guid>
+			<guid isPermaLink="true">https://brendongu.netlify.app/work/</guid>
 			<description>&lt;p&gt;Nothing to see here!&lt;/p&gt;
 </description>
 		</item>
